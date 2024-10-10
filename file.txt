@@ -1,2 +1,3 @@
 Hello, Git
 second line in file
+third line in file
