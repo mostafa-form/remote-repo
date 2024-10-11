@@ -1,5 +1,5 @@
 Hello, Git
 second line in file
 third line in file
-forth line in file.txt
-
+forth line in file
+fifth line in file
