@@ -2,6 +2,5 @@ Hello, Git
 second line in file
 third line in file
 forth line in file
-fifth line in file
-new line in test branch
+fifth line test branch
 
